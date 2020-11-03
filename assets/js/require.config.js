@@ -1,5 +1,5 @@
 require.config({
-    baseUrl: "/assets/js",
+    baseUrl: "assets/js",
     waitSeconds: 600,
     urlArgs: "1602576748",
     paths: {

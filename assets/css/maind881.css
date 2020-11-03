@@ -1417,7 +1417,7 @@ i {
 }
 .header--scrolled .logo {
     margin-top: 7px;
-    background: url(../../img/logo/logo_scroll_mob-compressor.svg) no-repeat;
+    background: url(../../assets/img/logo/logo_scroll_mob-compressor.svg) no-repeat;
 }
 @media only screen and (min-width: 1023px) {
     .header--scrolled .logo {
