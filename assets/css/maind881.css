@@ -7439,6 +7439,10 @@ i {
     height: 980px;
     display: none;
 }
+
+.services__item.fill-left {
+    cursor: pointer;
+}
 @media screen and (min-width: 768px) {
     .footer-fake {
         height: 549px;
@@ -7534,6 +7538,14 @@ footer .copy {
     text-align: center;
     width: 100%;
 }
+.privacy img, .privacy a{
+    display:none;
+}
+
+section.legacy {
+    padding: 0px 100px 0px 100px;
+}
+
 @media only screen and (min-width: 769px) {
     footer .copy {
         width: 65%;
@@ -7568,6 +7580,7 @@ footer .social_links {
     margin-top: 15px;
     width: 100%;
     text-align: center;
+    display:none;
 }
 @media only screen and (min-width: 769px) {
     footer .social_links {
