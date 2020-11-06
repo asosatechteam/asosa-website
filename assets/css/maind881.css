@@ -1837,10 +1837,14 @@ i {
     }
 }
 .logo {
-    background: url(../../img/logo/logo_null_mob-compressor.svg) no-repeat;
+    background: url(../../img/logo/ic_launcher.png) no-repeat;
     width: 130px;
     height: 36px;
     margin-top: 10px;
+}
+.img-new-logo{
+    width: 107px;
+    margin-top: -20px;
 }
 @media only screen and (min-width: 768px) {
     .logo .logo {
@@ -1854,7 +1858,7 @@ i {
 }
 @media only screen and (min-width: 1023px) {
     .logo {
-        background: url(../../img/logo/logo_null-compressor.svg);
+        background: url(../../img/logo/ic_launcher.png);
         width: 180px;
         height: 50px;
         margin-top: 24px;
